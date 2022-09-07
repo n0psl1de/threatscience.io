@@ -32,9 +32,9 @@
 [xCyclopedia](https://strontic.github.io/xcyclopedia/)
 
 
-# Threat Detection Converters
+# Query/Rule Translation
 
-[Uncoder.io]https://uncoder.io/)
+[Uncoder.io](https://uncoder.io/)
 
     
 # Malware Analysis
