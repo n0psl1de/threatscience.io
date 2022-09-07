@@ -1,8 +1,8 @@
 # Threat Research
 
-[MITRE ATTACK Framework] (https://attack.mitre.org/)
+[MITRE ATTACK Framework](https://attack.mitre.org/)
 
-[MITRE CAR](https://car.mitre.org/coverage/
+[MITRE CAR](https://car.mitre.org/coverage/)
 
 [MITRE D3fend](https://d3fend.mitre.org/)
 
@@ -14,11 +14,11 @@
 
 [Red Canary Blog](https://redcanary.com/blog/)
 
-[DFIR reports]https://thedfirreport.com/
+[DFIR reports](https://thedfirreport.com/)
 
 [RFC](https://www.ietf.org/standards/rfcs/)
 
-[ExploitDB[(https://www.exploit-db.com/)
+[ExploitDB](https://www.exploit-db.com/)
 
 [CISA](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
 
