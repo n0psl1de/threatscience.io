@@ -42,8 +42,6 @@
 [Open Source Security Events Metadata (OSSEM)](https://github.com/OTRF/OSSEM)
 <br>"A community-led project focused primarily on the documentation, standardization and modeling of security event logs."
 
-[SigmaHQ Detections](https://github.com/SigmaHQ/sigma)
-
 [Splunk Detections](https://github.com/splunk/security_content)
 
 [MS Sentinel Detections](https://github.com/Azure/Azure-Sentinel/tree/master/Detections)
