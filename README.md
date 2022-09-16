@@ -15,7 +15,7 @@
 <br>"The mission of the CVE® Program is to identify, define, and catalog publicly disclosed cybersecurity vulnerabilities."
 
 
-[OSSEM](https://github.com/OTRF/OSSEM)
+[Open Source Security Events Metadata (OSSEM)](https://github.com/OTRF/OSSEM)
 <br>"A community-led project focused primarily on the documentation, standardization and modeling of security event logs."
 
 [SigmaHQ](https://github.com/SigmaHQ/sigma)
